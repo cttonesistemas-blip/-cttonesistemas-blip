@@ -65,8 +65,3 @@ I'm looking for opportunities in:
 - SaaS Development
 
 Open to remote opportunities in Brazil and internationally.
-
-## Contact
-
-**LinkedIn:** add your LinkedIn URL here  
-**Location:** Parnaíba, Piauí, Brazil
